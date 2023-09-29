@@ -61,12 +61,12 @@ Once your server is on, open up insomnia. Inside of insomnia, you can make get, 
 
 ## Demo
 
-E-Commerce Back End Starter Code from github user: Xandromus in Repository: fantastic-umbrella. See below for link to repository: https://github.com/coding-boot-camp/fantastic-umbrella
-
 Please see a demo of my application [here](https://drive.google.com/file/d/1xtjHCSkmAgMp34sdl9qraC-nvX4w9Tj2/view?usp=sharing).
 
 
 ## Credits
+
+E-Commerce Back End Starter Code from github user: Xandromus in Repository: fantastic-umbrella. See below for link to repository: https://github.com/coding-boot-camp/fantastic-umbrella
 
 Badge for MIT License was made with [Shields.io](http://shields.io/) and taken from GitHub user: lukas-h. See below for the link to the license badge collection: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
