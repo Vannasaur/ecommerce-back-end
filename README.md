@@ -48,6 +48,7 @@ Please also install the following programs:
      - mysql2 at https://www.npmjs.com/package/mysql2
      - sequelize at https://www.npmjs.com/package/sequelize
      - express at https://www.npmjs.com/package/express
+     - Insomnia at https://docs.insomnia.rest/insomnia/install
 
 
 ## Usage
